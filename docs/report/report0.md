@@ -1,9 +1,9 @@
 # Title
-
+Ambulance Acess in Dar Es Salaam Tanzania
 Castin, Stone, Middlebury College  
 
 
-Version X.X | Created 2021-10-07 | Last Updated  2021-10-07
+Version 1.0 | Created 2021-10-07 | Last Updated  2021-11-07
 
 ## Abstract
 
@@ -24,13 +24,6 @@ OSM data collected from 2017 on
 Analysis most valid for central city
 
 
-Is the study **observational**, **exploratory**, or testing one or more **hypotheses**? If testing hypotheses, specify the hypotheses here.
-
-The **spatial extent** of the study is...
-The **spatial scale / support** of the study is...
-The **temporal extent** of the study is...
-The **temporal support** of the study is...
-
 ## Materials and procedure
 
 ### Data and variables
@@ -40,9 +33,8 @@ Wards from Resilience Academy used
 
 Amenity field from polygons to find hospitals / clinics, identify non hospital / clinic buildings
 road type from roads to summarize passibility,
-wardname from wards
+wardname and geometry from wards
 
-Describe the **data sources** and **variables** to be used.
 
 ### Geographic characteristics
 
