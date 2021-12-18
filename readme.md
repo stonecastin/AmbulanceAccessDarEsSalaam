@@ -1,14 +1,17 @@
 # Title of Study
 
-> Insert names of the original authors in Kedron, P.J. format
+Ambulance Acess in Dar Es Salaam Tanzania
+Castin, Stone, Middlebury College  
 
+
+Version 1.0 | Created 2021-10-07 | Last Updated  2021-11-07
 ## Abstract
 
-> Briefly describe the study. If the study is a reproduction or replication, the full citation of the original study should be included here with digital object identifier (DOI) to the study and, if applicable, any preregistration, code or data repositories. Delete this instruction from the final repository.
+Ambulance access in Dar Es Slaam, Tanzania based on buildings' distance to nearest passable road and hospital / clinic. Road access ranges from an average (per ward) distance of 75 m to a road  (Kimbiji) to 17 m to a road (Magomeni). Distance to a hospital ranges from an average (per ward) distnce of over 2500 m to a hospital or clinic (Pemba Mnazi) to 208 m average distance to a hospital or clinic (Kisutu).
 
 ## Repository Documents
 
-> Link your reports, manuscripts, presentations, publication DOIs, preregistrations, etc. here. Delete this instruction and unused list items from your final repository. Adjust the file names and paths and add additional items as necessary.
+[github repository](https://github.com/stonecastin/AmbulanceAccessDarEsSalaam)
 
 - Preregistration: https://osf.io/my_study
 - Publication: https://doi.org/my_study
